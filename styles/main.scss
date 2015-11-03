@@ -1,0 +1,35 @@
+//style guide variables
+
+$headline-text: 3rem;// 300%//
+$body-text: 1rem; //100%;
+$nav-item: 1.25rem; //125%
+$sub-header: 1.5rem;//150%
+$byline: .75rem;//75%
+
+body {
+  font-size: 16px;
+}
+
+h1 {
+  font-size: $headline-text;
+}
+p {
+ font-size: $body-text;
+
+}
+
+nav li {
+  font-size: $nav-item;
+
+}
+
+h2 {
+  font-size: $sub-header;
+
+}
+
+figcaption {
+  font-size: $byline
+
+
+}
